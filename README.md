@@ -22,9 +22,9 @@ Projeto em JavaScript, consumindo a API do OpenWeather (informações do clima),
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Background       | ![#05b0e4](https://via.placeholder.com/10/0a192f?text=+) #05b0e4 |
-| Background       | ![#02659efb](https://via.placeholder.com/10/f8f8f8?text=+) #02659efb |
-| Fonte       | ![#fdfdfd](https://via.placeholder.com/10/00b48a?text=+) #fdfdfd |
+| Background       | ![#05b0e4](https://via.placeholder.com/10/0a192f?text=+#05b0e4)  |
+| Background       | ![#02659efb](https://via.placeholder.com/10/f8f8f8?text=+#02659efb)  |
+| Fonte       | ![#fdfdfd](https://via.placeholder.com/10/00b48a?text=+#fdfdfd) #fdfdfd |
 
 
 
