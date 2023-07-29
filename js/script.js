@@ -1,4 +1,4 @@
-//84e616a8844d4541fade82ee9947202e - OpenWeather
+
 
 // seleção de elementos e variáveis
 const apiKey = "";
